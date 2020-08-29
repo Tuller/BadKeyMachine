@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: Bad Key Machine
+## Notes: Makes Quick Binding Mode a bit better
+## Author: Tuller
+## Version: @version@
+LibStub\LibStub.lua
+CallbackHandler-1.0\CallbackHandler-1.0.lua
+BadKeyMachine-1.0.lua
